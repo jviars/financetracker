@@ -1,7 +1,7 @@
 # Please install the dependencies located in the "dependencies" folder to run the application. 
 
 ## This was made for fun, so feel free to do what you like with it. You can use Electron to build it into an application. 
-
+## If you are running Windows, I have packed the app for you already. Please head over to "releases" and download the file ending in "zip". Unpackage and run the file. 
 
 ![image](https://github.com/user-attachments/assets/04eb8bb8-a14d-4e0e-bc4b-a8981bfad5be)
 
