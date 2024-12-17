@@ -2,6 +2,12 @@
 
 ## This was made for fun, so feel free to do what you like with it. You can use Electron to build it into an application. 
 
+
+![image](https://github.com/user-attachments/assets/04eb8bb8-a14d-4e0e-bc4b-a8981bfad5be)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
